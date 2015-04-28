@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "gillax <gillax@gmail.com>",
-  "description": "my first hubot",
+  "description": "A simple helpful robot for your Company",
   "dependencies": {
     "date-utils": "^1.2.16",
     "githubot": "^1.0.0",
