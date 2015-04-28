@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+export HUBOT_SLACK_TOKEN=xoxb-4270142324-4dLGYJCSb6gdw92yFXC4FPIz
+
